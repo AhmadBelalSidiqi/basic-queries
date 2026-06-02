@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/01_table_name_holds_items_sold_by_northwind.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_products_list_Id_Name_unitePrice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/03_products_list_Id_Name _unitePrice_in_ascending_order.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_products_list_less_than_7.50.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_products_more_100_in_hand.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_Products_more_than_100_inHand_orderedBy_ price_and_name.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/07_zero_inStock_products.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/08_Name_of_table_that_holds_types.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/09_list_all_columns_rows.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/10_list_of_All_seafood_products.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/11_fistName_lastName_of_employees.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/12_managers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/13_distinct_job_title.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/14_employess_salary_betwee_2000-2500.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/15_all_information_about_northwind_suppliers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/16_tokyoTrader_all_products.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
